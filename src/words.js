@@ -1,4 +1,4 @@
-[
+const words = [
     { akmuo: ['stone'] },
     { namas: ['house', 'home'] },
     { gėlė: ['flower'] },
@@ -9,3 +9,5 @@
     { kalba: ['speaks'] },
     { myli: ['loves'] },
 ]
+
+export default words;
